@@ -1,0 +1,24 @@
+{
+  "name": "models",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gh-pages": "^6.1.1",
+    "three": "^0.162.0"
+  },
+  "description": "��#\u0000 \u0000t\u0000h\u0000r\u0000e\u0000e\u0000J\u0000s\u0000-\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
